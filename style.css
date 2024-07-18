@@ -106,7 +106,7 @@ button {
 button:hover {
     background-color: #ffff;
     color: #FF1541;
-    transform: matrix(0,1,1,0,0,0);
+    transform: scale(0.95);
 }
 
 #resultados {
